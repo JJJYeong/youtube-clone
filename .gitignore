@@ -3,7 +3,8 @@
 
 dev.js
 
-
+uploads/*.mp4
+uploads/**/*.png
 
 .DS_Store
 
