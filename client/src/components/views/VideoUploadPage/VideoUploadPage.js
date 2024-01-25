@@ -45,7 +45,7 @@ function VideoUploadPage(props) {
     }
     
     const onDrop = (files) => {
-        let formData = new FormData;
+        let formData = new FormData();
         const config = {
             header: {'content-type': 'multipart/form-data'}
         };
